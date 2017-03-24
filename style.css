@@ -25,10 +25,9 @@ button {
 }
 
 #quote-display {
-  background-color: white;
   width: 50%;
   height: 25%;
   margin: 50px auto;
   color: black;
-  
+  font-size: 24px;  
 }
