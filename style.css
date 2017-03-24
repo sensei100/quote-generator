@@ -1,0 +1,34 @@
+.container {
+  margin-top:  -50px;
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+  background-image: url('https://images.unsplash.com/photo-1447727214830-cbcbf097b52c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=eb84c0ba41989ac189270e798bbd5d55');
+  background-size: cover;
+  height: 1000px;
+  width: 100%;
+}
+
+#title {
+  font-size: 50px;
+  text-align: center;
+  padding-top: 100px;
+}
+
+button {
+  font-family: 'Permanent Marker',         cursive;
+  height: 40px;
+  width: 200px;
+  font-size: 24px;
+  border-radius: 5px;
+  background-color: #226342;
+  border: none;
+}
+
+#quote-display {
+  background-color: white;
+  width: 50%;
+  height: 25%;
+  margin: 50px auto;
+  color: black;
+  
+}
