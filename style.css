@@ -2,7 +2,7 @@
   margin-top:  -50px;
   font-family: 'Permanent Marker', cursive;
   text-align: center;
-  background-image: url('https://images.unsplash.com/photo-1447727214830-cbcbf097b52c?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=eb84c0ba41989ac189270e798bbd5d55');
+  background-image: url('https://static.pexels.com/photos/33129/popcorn-movie-party-entertainment.jpg');
   background-size: cover;
   height: 1000px;
   width: 100%;
@@ -20,7 +20,7 @@ button {
   width: 200px;
   font-size: 24px;
   border-radius: 5px;
-  background-color: #226342;
+  background-color: #A0222D;
   border: none;
 }
 

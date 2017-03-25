@@ -12,7 +12,8 @@ function getQuote() {
       },
     error: function(err) { alert(err); },
     beforeSend: function(xhr) {
-      xhr.setRequestHeader("X-Mashape-Authorization",   "bTBF7sHUgOmshLzhmPB4gv4pWealp1zPZBfjsniFXuP9PuGfzx");} 
+      xhr.setRequestHeader("X-Mashape-Authorization",   "bTBF7sHUgOmshLzhmPB4gv4pWealp1zPZBfjsniFXuP9PuGfzx");
+      } 
     });  
   });
 }
