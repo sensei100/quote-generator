@@ -6,22 +6,22 @@
   background-size: cover;
   height: 1000px;
   width: 100%;
+  color: black;
 }
 
 #title {
   font-size: 50px;
   text-align: center;
   padding-top: 100px;
+  padding-bottom: 50px;
 }
 
-button {
-  font-family: 'Permanent Marker',         cursive;
-  height: 40px;
-  width: 200px;
+#quote {
+  opacity: .85;
+  font-family: 'Permanent Marker', cursive;
   font-size: 24px;
-  border-radius: 5px;
   background-color: #A0222D;
-  border: none;
+  text-align: center;
 }
 
 #quote-display {
@@ -30,4 +30,10 @@ button {
   margin: 50px auto;
   color: black;
   font-size: 24px;  
+}
+
+#tweet-btn {
+  background-color: #00aced;
+  color: white;
+  opacity: .85;
 }
